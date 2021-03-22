@@ -1,2 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+from avaliacoes_ra.lib import test_func
+
+test_func()
